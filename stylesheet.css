@@ -8,6 +8,10 @@ body {
 	transition:background-color linear 5s;
 	overflow-x:hidden;
 }
+
+.naik{
+	margin-top: 150px;
+}
 .container {
 	display: none;
 }
